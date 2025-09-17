@@ -1,5 +1,5 @@
 دگیتس
-#  dgeeks
+#   thegeeks.ir
 #https://2ll.ir
 
 #https://github.com/barissaslan/django-dersleri
